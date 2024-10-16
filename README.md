@@ -45,3 +45,10 @@
 
 ## Colab Notebook
 - You can access the full Python analysis on Google Colab using the following link: [View the notebook](https://colab.research.google.com/drive/1li2QhpJ6fHJhvOSWXPBEfSAB8A7rD-S7#scrollTo=UUqOHrjdpfx0)
+
+## PDF Report
+
+A detailed analysis report is available in the following PDF file: [View Report](Risk_anlytics.pdf).
+
+
+
